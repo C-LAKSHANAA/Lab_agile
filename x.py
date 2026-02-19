@@ -1,4 +1,7 @@
-a=5
-b=2
-c=a+b
-print(c)
+"""Simple addition program."""
+
+num1 = 5
+num2 = 2
+result = num1 + num2
+
+print(result)
